@@ -1,7 +1,13 @@
 # Netflix-gpt
 
-    - create react App
-    -cinfigured tailwindCss
+- create react App
+-cinfigured tailwindCss
+-Header
+-Login Form
+-Sign up forfm
+-routing
+-Form validation
+- useRef hook
 
 # Features
 -Login/SignUp page
